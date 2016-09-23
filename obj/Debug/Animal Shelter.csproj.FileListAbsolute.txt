@@ -6,3 +6,6 @@ C:\Users\Reinoud\Dropbox\HBO\S2\Animal Shelter\Animal Shelter\obj\Debug\Animal_S
 C:\Users\Reinoud\Dropbox\HBO\S2\Animal Shelter\Animal Shelter\obj\Debug\Animal Shelter.csproj.GenerateResource.Cache
 C:\Users\Reinoud\Dropbox\HBO\S2\Animal Shelter\Animal Shelter\obj\Debug\Animal Shelter.exe
 C:\Users\Reinoud\Dropbox\HBO\S2\Animal Shelter\Animal Shelter\obj\Debug\Animal Shelter.pdb
+C:\Users\Reinoud\Documents\GitHub\Animal-Shelter\bin\Debug\Animal Shelter.exe.config
+C:\Users\Reinoud\Documents\GitHub\Animal-Shelter\obj\Debug\Animal Shelter.exe
+C:\Users\Reinoud\Documents\GitHub\Animal-Shelter\obj\Debug\Animal Shelter.pdb
